@@ -1,0 +1,65 @@
+E:\酒店锁资料\英文版SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\TestDemo.exe.config
+E:\酒店锁资料\英文版SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\generalHID.dll
+E:\酒店锁资料\英文版SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\RadioDev.dll
+E:\酒店锁资料\英文版SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\TestDemo.exe
+E:\酒店锁资料\英文版SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\TestDemo.pdb
+E:\酒店锁资料\英文版SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\Dev_C_Sharp.dll
+E:\酒店锁资料\英文版SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\酒店锁资料\英文版SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.Form1.resources
+E:\酒店锁资料\英文版SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.Properties.Resources.resources
+E:\酒店锁资料\英文版SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\酒店锁资料\英文版SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\酒店锁资料\英文版SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.exe
+E:\酒店锁资料\英文版SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.pdb
+C:\Users\ZK\Desktop\Material\SDKs\2013.11.7_HotelLock Software_SDK\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\TestDemo.exe.config
+C:\Users\ZK\Desktop\Material\SDKs\2013.11.7_HotelLock Software_SDK\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.exe
+C:\Users\ZK\Desktop\Material\SDKs\2013.11.7_HotelLock Software_SDK\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.pdb
+C:\Users\ZK\Desktop\Material\SDKs\2013.11.7_HotelLock Software_SDK\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\generalHID.dll
+C:\Users\ZK\Desktop\Material\SDKs\2013.11.7_HotelLock Software_SDK\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\RadioDev.dll
+C:\Users\ZK\Desktop\Material\SDKs\2013.11.7_HotelLock Software_SDK\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\TestDemo.exe
+C:\Users\ZK\Desktop\Material\SDKs\2013.11.7_HotelLock Software_SDK\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\TestDemo.pdb
+C:\Users\ZK\Desktop\Material\SDKs\2013.11.7_HotelLock Software_SDK\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\Dev_C_Sharp.dll
+C:\Users\ZK\Desktop\Material\SDKs\2013.11.7_HotelLock Software_SDK\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csprojResolveAssemblyReference.cache
+C:\Users\ZK\Desktop\Material\SDKs\2013.11.7_HotelLock Software_SDK\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.Form1.resources
+C:\Users\ZK\Desktop\Material\SDKs\2013.11.7_HotelLock Software_SDK\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.Properties.Resources.resources
+C:\Users\ZK\Desktop\Material\SDKs\2013.11.7_HotelLock Software_SDK\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csproj.GenerateResource.Cache
+D:\Usuarios\Xavier Guereque\Descargas\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.Form1.resources
+D:\Usuarios\Xavier Guereque\Descargas\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.Properties.Resources.resources
+D:\Usuarios\Xavier Guereque\Descargas\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csproj.GenerateResource.cache
+D:\Usuarios\Xavier Guereque\Descargas\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csproj.CoreCompileInputs.cache
+D:\Usuarios\Xavier Guereque\Descargas\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\generalHID.dll
+D:\Usuarios\Xavier Guereque\Descargas\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\RadioDev.dll
+D:\Usuarios\Xavier Guereque\Descargas\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\TestDemo.exe.config
+D:\Usuarios\Xavier Guereque\Descargas\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\TestDemo.exe
+D:\Usuarios\Xavier Guereque\Descargas\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\TestDemo.pdb
+D:\Usuarios\Xavier Guereque\Descargas\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\bin\x86\Debug\Dev_C_Sharp.dll
+D:\Usuarios\Xavier Guereque\Descargas\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csprojAssemblyReference.cache
+D:\Usuarios\Xavier Guereque\Descargas\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csproj.CopyComplete
+D:\Usuarios\Xavier Guereque\Descargas\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.exe
+D:\Usuarios\Xavier Guereque\Descargas\2013.11.7_HotelLock Software_SDK\Demo\Demo\C Sharp\TestDemo\TestDemo\obj\x86\Debug\TestDemo.pdb
+D:\Usuarios\Xavier Guereque\Descargas\Hotel Lock Software SDK 20-09-2019\TestDemo\TestDemo\bin\x86\Debug\generalHID.dll
+D:\Usuarios\Xavier Guereque\Descargas\Hotel Lock Software SDK 20-09-2019\TestDemo\TestDemo\bin\x86\Debug\RadioDev.dll
+D:\Usuarios\Xavier Guereque\Descargas\Hotel Lock Software SDK 20-09-2019\TestDemo\TestDemo\bin\x86\Debug\TestDemo.exe.config
+D:\Usuarios\Xavier Guereque\Descargas\Hotel Lock Software SDK 20-09-2019\TestDemo\TestDemo\bin\x86\Debug\TestDemo.exe
+D:\Usuarios\Xavier Guereque\Descargas\Hotel Lock Software SDK 20-09-2019\TestDemo\TestDemo\bin\x86\Debug\TestDemo.pdb
+D:\Usuarios\Xavier Guereque\Descargas\Hotel Lock Software SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csprojAssemblyReference.cache
+D:\Usuarios\Xavier Guereque\Descargas\Hotel Lock Software SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.Form1.resources
+D:\Usuarios\Xavier Guereque\Descargas\Hotel Lock Software SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.Properties.Resources.resources
+D:\Usuarios\Xavier Guereque\Descargas\Hotel Lock Software SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csproj.GenerateResource.cache
+D:\Usuarios\Xavier Guereque\Descargas\Hotel Lock Software SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csproj.CoreCompileInputs.cache
+D:\Usuarios\Xavier Guereque\Descargas\Hotel Lock Software SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csproj.CopyComplete
+D:\Usuarios\Xavier Guereque\Descargas\Hotel Lock Software SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.exe
+D:\Usuarios\Xavier Guereque\Descargas\Hotel Lock Software SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.pdb
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\hotel_lock_software_SDK 20-09-2019\TestDemo\TestDemo\bin\x86\Debug\generalHID.dll
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\hotel_lock_software_SDK 20-09-2019\TestDemo\TestDemo\bin\x86\Debug\RadioDev.dll
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\hotel_lock_software_SDK 20-09-2019\TestDemo\TestDemo\bin\x86\Debug\TestDemo.exe.config
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\hotel_lock_software_SDK 20-09-2019\TestDemo\TestDemo\bin\x86\Debug\TestDemo.exe
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\hotel_lock_software_SDK 20-09-2019\TestDemo\TestDemo\bin\x86\Debug\TestDemo.pdb
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\hotel_lock_software_SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csprojAssemblyReference.cache
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\hotel_lock_software_SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.Form1.resources
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\hotel_lock_software_SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.Properties.Resources.resources
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\hotel_lock_software_SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csproj.GenerateResource.cache
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\hotel_lock_software_SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csproj.CoreCompileInputs.cache
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\hotel_lock_software_SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.csproj.CopyComplete
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\hotel_lock_software_SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.exe
+D:\Usuarios\Xavier Guereque\Documentos\Visual Studio\hotel_lock_software_SDK 20-09-2019\TestDemo\TestDemo\obj\x86\Debug\TestDemo.pdb
